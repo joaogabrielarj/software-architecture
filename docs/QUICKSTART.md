@@ -177,10 +177,8 @@ GAMEPLAY STATISTICS REPORT
 
 Depois do Quick Start, explore:
 
-1. 📖 **[README.md](README.md)** - Documentação completa
-2. 🏗️ **[ARCHITECTURE.md](ARCHITECTURE.md)** - Como funciona por dentro
-3. 📊 **[DIAGRAMS.md](DIAGRAMS.md)** - Visualizações da arquitetura
-4. 💡 **[USAGE_EXAMPLES.md](USAGE_EXAMPLES.md)** - Casos de uso avançados
+1. 📖 **[README.md](../README.md)** - Documentação completa
+2. 🏗️ **[ARCHITECTURE.md](ARCHITECTURE.md)** - Arquitetura detalhada
 
 ---
 
@@ -242,11 +240,9 @@ python ../main.py jogo.gb
 
 | Preciso... | Arquivo |
 |------------|---------|
-| Instalar | [INSTALL.md](INSTALL.md) |
-| Usar | [README.md](README.md) |
-| Exemplos | [USAGE_EXAMPLES.md](USAGE_EXAMPLES.md) |
+| Instalar | Ver seção "Instalação" no README |
+| Usar | [README.md](../README.md) |
 | Entender | [ARCHITECTURE.md](ARCHITECTURE.md) |
-| Problemas | [INSTALL.md](INSTALL.md#-solução-de-problemas) |
 
 ---
 
@@ -316,4 +312,4 @@ tail -f gameplay.log
 
 **Este é o jeito mais rápido de começar!**
 
-Para informações detalhadas, consulte [README.md](README.md) ou [INDEX.md](INDEX.md).
+Para informações detalhadas, consulte [README.md](../README.md).
