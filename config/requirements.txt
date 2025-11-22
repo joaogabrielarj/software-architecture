@@ -1,0 +1,5 @@
+# PyBoy - Game Boy emulator
+pyboy>=2.0.0
+
+# Additional dependencies that may be needed
+# SDL2 is recommended for GUI support (install via system package manager)
